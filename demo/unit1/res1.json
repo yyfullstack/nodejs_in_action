@@ -1,0 +1,568 @@
+[
+  {
+    "pre": "C",
+    "brands": [
+      {
+        "name": "春洲客车",
+        "img": "http://img.keche400.com/brand/xrl7oV2Hge.jpg",
+        "series": [
+          {
+            "name": "5-6米",
+            "data": [
+              "JNQ6600DK41",
+              "JNQ6600DK42"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "长江汽车",
+        "img": "http://img.keche400.com/brand/IAjgC8o0HY.jpg",
+        "series": [
+          {
+            "name": "6-8米",
+            "data": [
+              "B07"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pre": "D",
+    "brands": [
+      {
+        "name": "大金龙",
+        "img": "http://img.keche400.com/brand/rQto18JZc8.jpg",
+        "series": [
+          {
+            "name": "5-6米",
+            "data": [
+              "XMQ"
+            ]
+          },
+          {
+            "name": "6-8米",
+            "data": [
+              "XMQ6730ASD4",
+              "XMQ6660ASD",
+              "XMQ6771CY",
+              "XMQ6771AYD4C"
+            ]
+          },
+          {
+            "name": "8-9米",
+            "data": [
+              "XMQ6898AYD4",
+              "XMQ6859AYD4",
+              "XMQ6802AYD4",
+              "XMQ6901AY",
+              "XMQ6871CY",
+              "XMQ6802AYD4C"
+            ]
+          },
+          {
+            "name": "9-10.5米",
+            "data": [
+              "XMQ6101AYD4",
+              "XMQ6998AYD4",
+              "XMQ6902AYD4",
+              "XMQ6900BSD4",
+              "XMQ6101CY",
+              "XMQ6996Y"
+            ]
+          },
+          {
+            "name": "10.5-11米",
+            "data": [
+              "XMQ6113Y",
+              "XMQ6117Y",
+              "XMQ6110C"
+            ]
+          },
+          {
+            "name": "11米以上",
+            "data": [
+              "XMQ6129Y2",
+              "XMQ6115Y",
+              "xmq6120c",
+              "XMQ6125AYN5C",
+              "XMQ6125BYD4C1",
+              "XMQ6125XMQ6125CYD4C",
+              "XMQ6125HY",
+              "XMQ6119FY",
+              "XMQ6115AYD3C1",
+              "XMQ6129FYD4C",
+              "XMQ6129DY4A",
+              "XMQ6129CYD4C",
+              "XMQ6129HYD4C",
+              "XMQ6128DYD4C",
+              "XMQ6140FYD4B",
+              "XMQ6120BCN4D"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "东风御风",
+        "img": "http://img.keche400.com/brand/yYWB60TFKD.jpg",
+        "series": [
+          {
+            "name": "5-6米",
+            "data": [
+              "DFA6570W3BDB"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pre": "F",
+    "brands": [
+      {
+        "name": "一汽丰田",
+        "img": "http://img.keche400.com/brand/EwwVaXqUbP.jpg",
+        "series": [
+          {
+            "name": "6-8米",
+            "data": [
+              "TRB53L-ZEMSK23",
+              "V6"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pre": "G",
+    "brands": [
+      {
+        "name": "广汽客车",
+        "img": "http://img.keche400.com/brand/nSJjtNqqaa.jpg",
+        "series": [
+          {
+            "name": "5-6米",
+            "data": [
+              "GZ6590R"
+            ]
+          },
+          {
+            "name": "6-8米",
+            "data": [
+              "GZ6700R"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pre": "H",
+    "brands": [
+      {
+        "name": "苏州金龙",
+        "img": "http://img.keche400.com/brand/hsnlHdQeFX.jpg",
+        "series": [
+          {
+            "name": "5-6米",
+            "data": [
+              "KLQ6540QE4",
+              "KLQ6602E4",
+              "KLQ6590XAE2",
+              "KLQ6609E4"
+            ]
+          },
+          {
+            "name": "6-8米",
+            "data": [
+              "KLQ6796E4",
+              "KLQ6798E4",
+              "KLQ6755KQE4",
+              "KLQ6702E4",
+              "KLQ6669E4"
+            ]
+          },
+          {
+            "name": "8-9米",
+            "data": [
+              "KLQ6856E4",
+              "KLQ6896AE4",
+              "KLQ6898E4",
+              "KLQ6858E4",
+              "KLQ6905KQE4",
+              "KLQ6808E4"
+            ]
+          },
+          {
+            "name": "9-10.5米",
+            "data": [
+              "KLQ6920E4",
+              "KLQ6995KQE4"
+            ]
+          },
+          {
+            "name": "10.5-11米",
+            "data": [
+              "KLQ6119TBE4",
+              "KLQ6115H"
+            ]
+          },
+          {
+            "name": "11米以上",
+            "data": [
+              "KLQ5240XLJ",
+              "KLQ6112HAE4",
+              "KLQ6115Q",
+              "KLQ6115K",
+              "KLQ6129TAE40",
+              "KLQ6122KAE4",
+              "KLQ6125KAE4",
+              "KLQ6129KAE4"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pre": "J",
+    "brands": [
+      {
+        "name": "江铃晶马",
+        "img": "http://img.keche400.com/brand/Ye9Ai2zuss.jpg",
+        "series": [
+          {
+            "name": "5-6米",
+            "data": [
+              "JMV6603CF",
+              "JMV6590XF",
+              "JX5040XXYVD1",
+              "JX5051XLJVDF",
+              "JX6606VDF",
+              "JMV5040XXY",
+              "JX5052XGCDA",
+              "JX6602VD1"
+            ]
+          },
+          {
+            "name": "6-8米",
+            "data": [
+              "JMV6705CF",
+              "JMV6770CF",
+              "JMV6700WDG4",
+              "JMV6775CF",
+              "JMV6702WDG4",
+              "JMV6700CF",
+              "JMV6772CF"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "金旅客车",
+        "img": "http://img.keche400.com/brand/0HdZp0Qr8M.jpg",
+        "series": [
+          {
+            "name": "4-5米",
+            "data": [
+              "XML6472"
+            ]
+          },
+          {
+            "name": "5-6米",
+            "data": [
+              "XML6601J28"
+            ]
+          },
+          {
+            "name": "6-8米",
+            "data": [
+              "XML6700J01",
+              "XML6721"
+            ]
+          },
+          {
+            "name": "8-9米",
+            "data": [
+              "XML6807J88",
+              "XML6897",
+              "XML6907J68"
+            ]
+          },
+          {
+            "name": "9-10.5米",
+            "data": [
+              "XML6102"
+            ]
+          },
+          {
+            "name": "10.5-11米",
+            "data": [
+              "XML6103",
+              "XML6113J18",
+              "XML610301J28"
+            ]
+          },
+          {
+            "name": "11米以上",
+            "data": [
+              "XML6122"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "九龙客车",
+        "img": "http://img.keche400.com/brand/ZpeBUNocCu.jpg",
+        "series": [
+          {
+            "name": "4-5米",
+            "data": [
+              "HKL6490E"
+            ]
+          },
+          {
+            "name": "5-6米",
+            "data": [
+              "HKL6600CV",
+              "HKL6540E4",
+              "HKL6600CE"
+            ]
+          },
+          {
+            "name": "6-8米",
+            "data": [
+              "HKL6701CV",
+              "A6",
+              "HKL6701"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pre": "M",
+    "brands": [
+      {
+        "name": "牡丹汽车",
+        "img": "http://img.keche400.com/brand/AEn7o6pHK5.jpg",
+        "series": [
+          {
+            "name": "5-6米",
+            "data": [
+              "MD6601KN",
+              "MD6602"
+            ]
+          },
+          {
+            "name": "6-8米",
+            "data": [
+              "MD6701KN"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pre": "N",
+    "brands": [
+      {
+        "name": "南京金龙",
+        "img": "http://img.keche400.com/brand/kw0uFHCWjo.jpg",
+        "series": [
+          {
+            "name": "5-6米",
+            "data": [
+              "NJL6600YF",
+              "NJL6606"
+            ]
+          },
+          {
+            "name": "6-8米",
+            "data": [
+              "NJL6706YF4"
+            ]
+          },
+          {
+            "name": "9-10.5米",
+            "data": [
+              "NJL6107Y4"
+            ]
+          },
+          {
+            "name": "10.5-11米",
+            "data": [
+              "NJL6118"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "尼桑碧莲",
+        "img": "http://img.keche400.com/brand/NLzi2cDgmj.jpg",
+        "series": [
+          {
+            "name": "6-8米",
+            "data": [
+              "DX"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pre": "S",
+    "brands": [
+      {
+        "name": "上汽大通",
+        "img": "http://img.keche400.com/brand/0NPWcElHAm.jpg",
+        "series": [
+          {
+            "name": "4-5米",
+            "data": [
+              "shV80",
+              "V80-VIP"
+            ]
+          },
+          {
+            "name": "5-6米",
+            "data": [
+              "h-V80",
+              "schoolV80",
+              "V8001",
+              "V8"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "四川现代",
+        "img": "http://img.keche400.com/brand/ot2HW0xKzL.jpg",
+        "series": [
+          {
+            "name": "6-8米",
+            "data": [
+              "CHM6710LQDM"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pre": "Y",
+    "brands": [
+      {
+        "name": "宇通客车",
+        "img": "http://img.keche400.com/brand/KiAeXWjmeL.jpg",
+        "series": [
+          {
+            "name": "5-6米",
+            "data": [
+              "ZK6559DX",
+              "ZK6608D"
+            ]
+          },
+          {
+            "name": "6-8米",
+            "data": [
+              "ZK6669DX",
+              "ZK6809DX",
+              "ZK6729DX",
+              "ZK6720D",
+              "ZK6752D",
+              "ZK6729DT",
+              "ZK6708D"
+            ]
+          },
+          {
+            "name": "8-9米",
+            "data": [
+              "ZK6908H",
+              "ZK6808H",
+              "ZK6858H",
+              "ZK6888H",
+              "ZK6859DX",
+              "ZK6809H"
+            ]
+          },
+          {
+            "name": "9-10.5米",
+            "data": [
+              "ZK6109H2Z",
+              "ZK6929DX",
+              "ZK6109DX",
+              "ZK6109H2"
+            ]
+          },
+          {
+            "name": "10.5-11米",
+            "data": [
+              "ZK6115HT1Z",
+              "ZK6119DX",
+              "ZK6118H",
+              "ZK6107H9",
+              "ZK6117H2Y",
+              "ZK6110H",
+              "ZK6119H"
+            ]
+          },
+          {
+            "name": "11米以上",
+            "data": [
+              "ZK6122HQBA",
+              "ZK6122HQB9",
+              "ZK5180XSW2",
+              "ZK6121HQ",
+              "ZK6116H9",
+              "ZK6146H",
+              "ZK6127H"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pre": "Z",
+    "brands": [
+      {
+        "name": "中通客车",
+        "img": "http://img.keche400.com/brand/O51LfKwahM.jpg",
+        "series": [
+          {
+            "name": "8-9米",
+            "data": [
+              "LCK6809H1"
+            ]
+          },
+          {
+            "name": "11米以上",
+            "data": [
+              "LCK6118H-2"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "中航爱维客",
+        "img": "http://img.keche400.com/brand/sp2TdEmD0s.jpg",
+        "series": [
+          {
+            "name": "6-8米",
+            "data": [
+              "V20-1",
+              "V20-8E"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

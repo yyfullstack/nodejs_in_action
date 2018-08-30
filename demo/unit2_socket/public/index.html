@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <style>
+        body {
+            padding: 50px;
+            font: 14px 'Lucida Console';
+        }
+
+        a {
+            color: #00B7FF;
+        }
+
+        #content {
+            width: 800px;
+            margin: 0 auto;
+            position: relative;
+        }
+
+        #room {
+            background: #ddd;
+            margin-bottom: 1em;
+            padding: 5px;
+        }
+
+        #message {
+            background: #eeeeee;
+            width: 700px;
+            height: 300px;
+            border: 1px solid #ddd;
+            overflow: auto;
+        }
+
+        #room-list {
+            width: 100px;
+            height: 300px;
+            position: absolute;
+            border: 1px solid #00B7FF;
+            right: -5px;
+        }
+
+        #room-list div {
+            padding: 5px;
+            border-bottom: 1px solid #eeeeee;
+        }
+
+        #room-list div:hover {
+            background-color: #dddddd;
+        }
+
+        #send-message {
+            width: 690px;
+            font-size: 16px;
+            padding: 5px;
+        }
+
+        #send-button {
+            font-size: 16px;
+            padding: 4px 20px;
+        }
+
+        #help {
+            font-size: 12px;
+        }
+    </style>
+</head>
+<body>
+<div id="content">
+    <div id="room"></div>
+    <div id="room-list"></div>
+    <div id="message"></div>
+    <form action="" id="send-form">
+        <input type="text" id="send-message">
+        <input type="button" id="send-button" value="发送">
+        <div id="help">
+            Chat commands:
+            <ul>
+                <li>change nickname:<code>/nick[username]</code></li>
+                <li>Join/Create room:<code>/join[room name]</code></li>
+            </ul>
+
+        </div>
+    </form>
+</div>
+<script src="/socket.io/socket.io.js"></script>
+<script src="http://code.jquery.com/jquery-1.8.0.min.js"></script>
+<script src="js/chat.js"></script>
+<script src="js/chat_ui.js"></script>
+</body>
+</html>
